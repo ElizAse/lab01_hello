@@ -1,0 +1,11 @@
+- Added shared comment to readme
+- Changed README in original repo
+- Added README
+- hello.html in right form
+- Added index.html.
+- Moved hello.html to lib
+- Add an author/email comment
+- Added HTML header
+- Added standard HTML page tags
+- Added h1 tag
+- Initial Commit
